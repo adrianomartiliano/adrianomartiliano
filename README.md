@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianomartiliano&show_icons=true&theme=gruvbox" alt="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrianomartiliano&show_icons=true&theme=dark" alt="Stats">
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomartiliano" alt="Ranking de Linguagens">
