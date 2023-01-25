@@ -1,7 +1,7 @@
 <h3 align="center">Olá, me chamo Adriano Martiliano </h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/adriano-martiliano/" target="_blank">
+    <a href="https://www.linkedin.com/in/adriano-martiliano/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
     </a>
     <a href="https://www.instagram.com/adriano.dil/" target="_blank">
